@@ -66,3 +66,17 @@ Comparar outros anos para verificar se renda, saúde e apoio social continuam as
 - Instituição: UNINASSAU Maceió
 - Projeto escolhido: Análise do Relatório Mundial de Felicidade
 
+- ## Uso de Inteligência Artificial
+
+Durante o desenvolvimento deste projeto, foi utilizado o ChatGPT como ferramenta de apoio ao aprendizado e à elaboração do relatório.
+
+A ferramenta auxiliou na compreensão dos conceitos de análise de dados e na revisão dos textos.
+
+O código e os resultados foram testados por mim, João, no Google Colab, assim como a verificação das análises realizadas.
+
+
+
+
+Vale ressaltar que o uso de inteligência artificial se deu pela necessidade de estudos e que esse projeto rendeu varias horas de serviço e escrita por mãos humanas, apesar do auxilio da i.a ter sido muito bem vindo nessa etapa de aprendizado.
+
+
